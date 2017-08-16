@@ -1,4 +1,4 @@
-# React Chrome Extension Boilerplate
+# Textables Chrome Extension
 
 [![Build Status](https://travis-ci.org/jhen0409/react-chrome-extension-boilerplate.svg?branch=master)](https://travis-ci.org/jhen0409/react-chrome-extension-boilerplate)
 [![Build status: Windows](https://ci.appveyor.com/api/projects/status/b5xy6ev6oykth0d2/branch/master?svg=true)](https://ci.appveyor.com/project/jhen0409/react-chrome-extension-boilerplate/branch/master)
@@ -10,26 +10,15 @@
 
 ## Features
 
- - Simple [React](https://github.com/facebook/react)/[Redux](https://github.com/rackt/redux) examples of Chrome Extension Window & Popup & Inject pages
+ - Awesome Emoticons
  - Hot reloading React/Redux (Using [Webpack](https://github.com/webpack/webpack) and [React Transform](https://github.com/gaearon/react-transform))
  - Write code with ES2015+ syntax (Using [Babel](https://github.com/babel/babel))
  - E2E tests of Window & Popup & Inject pages (Using [Chrome Driver](https://www.npmjs.com/package/chromedriver), [Selenium Webdriver](https://www.npmjs.com/package/selenium-webdriver))
 
-## Examples
-
-The example is edited from [Redux](https://github.com/rackt/redux) TodoMVC example.
-
 #### Popup
 
-![Popup](https://cloud.githubusercontent.com/assets/3001525/14128490/dc05e9f8-f653-11e5-9de6-82d1de01844a.gif)
+![Popup](https://media.giphy.com/media/l41K2gE3yyeRGz3PO/giphy.gif)
 
-The `todos` state will be saved to `chrome.storage.local`.
-
-#### Window
-
-![Window](https://cloud.githubusercontent.com/assets/3001525/14128489/da176b62-f653-11e5-9bff-fefc35232358.gif)
-
-The context menu is created by [chrome/extension/background/contextMenus.js](chrome/extension/background/contextMenus.js).
 
 #### Inject page
 
@@ -44,7 +33,7 @@ If you are receiving the error message `Failed to load resource: net::ERR_INSECU
 $ git clone https://github.com/jhen0409/react-chrome-extension-boilerplate.git
 
 # Install dependencies
-$ npm install
+$ yarn
 ```
 
 ## Development
