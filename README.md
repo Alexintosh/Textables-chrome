@@ -6,8 +6,6 @@
 [![Dependency Status](https://david-dm.org/jhen0409/react-chrome-extension-boilerplate.svg)](https://david-dm.org/jhen0409/react-chrome-extension-boilerplate)
 [![devDependency Status](https://david-dm.org/jhen0409/react-chrome-extension-boilerplate/dev-status.svg)](https://david-dm.org/jhen0409/react-chrome-extension-boilerplate#info=devDependencies)
 
-> Boilerplate for Chrome Extension React.js project.
-
 ## Features ☜(ﾟヮﾟ☜)
 
  - Awesome Emoticons `( ¬‿¬) (⌐■_■)`
